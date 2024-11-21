@@ -26,6 +26,7 @@ require 'ad_manager_api/ad_manager_api_statement'
 require 'ad_manager_api/ad_manager_api_datetime'
 require 'ad_manager_api/pql_statement_utils'
 require 'ad_manager_api/utils_reporter'
+require 'ads_savon/core_ext/string'
 
 # Main namespace for all the client library's modules and classes.
 module AdManagerApi
